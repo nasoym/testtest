@@ -5,4 +5,5 @@ RUN apk add --no-cache curl jq
 RUN rm -rf /handlers && mkdir -p /handlers
 
 ADD hello /handlers/hello
+ADD slow /handlers/slow
 
