@@ -1,8 +1,5 @@
 #!/usr/bin/env bash
 
-echo "FOOOOOOOOOOOOOOOOO
-
-
-bar
+echo "1
 "
 
